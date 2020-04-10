@@ -1,1 +1,3 @@
 num=10
+for num in rang(5)
+	print(num)
